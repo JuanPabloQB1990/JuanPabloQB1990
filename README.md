@@ -16,7 +16,8 @@
 <hr/>
 
 <div>
-  <h1>Acerca de Mi</h1>
+  <h1>Acerca de mis habilidades</h1>
+  
   <h3>Frontend:</h3>
   <ul>
     <li>Html</li>
@@ -44,7 +45,7 @@
   </ul>
 </div>
 <div id="badges" align=="center">
-  <h1>Contactame</h1>
+  <h1>Contáctame</h1>
   <h3>
     Teléfono: 324 312 8049
   </h3>
