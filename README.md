@@ -30,7 +30,7 @@
   <h3>BackEnd:</h3>
   <ul>
     <li>Node</li>
-    <li>REST API</li>
+    <li>REST API - Postman</li>
     <li>MySql</li>
     <li>Base de datos (SQL, NoSQL)</li>
     <li>Java</li>
