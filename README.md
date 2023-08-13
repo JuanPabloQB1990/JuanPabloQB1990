@@ -19,7 +19,7 @@
   <h1>Acerca de Mi</h1>
   <h3>Frontend:</h3>
   <ul>
-    <li>Html <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40"/></li>
+    <li>Html</li>
     <li>CSS</li>
     <li>JavaScript</li>
     <li>React</li>
