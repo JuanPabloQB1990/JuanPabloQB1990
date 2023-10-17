@@ -34,5 +34,5 @@
 📷 Instagram: [@JuanpabloQB](https://www.instagram.com/juan_04041990/?hl=es-la)
 👔 LinkedIn: [JuanPabloQB](https://www.linkedin.com/in/juanpabloqb/)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloQB1990&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloQB1990)](https://github.com/JuanPabloQB1990/github-readme-stats)
