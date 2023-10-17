@@ -1,5 +1,5 @@
-[![code-21.gif](https://i.postimg.cc/Qx9SCvjW/code-21.gif)](https://postimg.cc/9r2yN8RW)
-### Hola, souy Juan Pablo y este es mi perfil
+[![programacion-gamer-001.gif](https://i.postimg.cc/MT3bKm4D/programacion-gamer-001.gif)](https://postimg.cc/BLD1mHJL)
+### Hola, soy Juan Pablo y este es mi perfil
 👨‍💻 Desarrollador Full Stack certificado en el arte oscuro del backend gracias al mágico Bootcamp de Makaia 🧙‍♂️. También poseo certificados frontend 💅 de varias plataformas, porque, ¿por qué no ser un maestro en todos los elementos del diseño web?
 
 🧠 En constante modo "Aprendizaje" activado, siempre en búsqueda de nuevos desafíos y soluciones. Si tienes un problema, ¡estoy aquí para resolverlo como un superhéroe de la codificación! 💪
