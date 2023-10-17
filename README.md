@@ -1,3 +1,4 @@
+[![code-21.gif](https://i.postimg.cc/Qx9SCvjW/code-21.gif)](https://postimg.cc/9r2yN8RW)
 ### Hola, souy Juan Pablo y este es mi perfil
 👨‍💻 Desarrollador Full Stack certificado en el arte oscuro del backend gracias al mágico Bootcamp de Makaia 🧙‍♂️. También poseo certificados frontend 💅 de varias plataformas, porque, ¿por qué no ser un maestro en todos los elementos del diseño web?
 
