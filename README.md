@@ -9,13 +9,23 @@
 
 ### Herramientas en las que me destaco
 
+## Frontend
+
 ![Etiqueta1](https://img.shields.io/badge/frontend-Html-red)
 ![Etiqueta1](https://img.shields.io/badge/estilos-Css-blue)
 ![Etiqueta1](https://img.shields.io/badge/lenguaje-JavaScript-yellow)
 ![Etiqueta1](https://img.shields.io/badge/framework-React-black)
 ![Etiqueta1](https://img.shields.io/badge/Git-GitHub-blue)
 
+## Backend
 
+![Etiqueta1](https://img.shields.io/badge/lenguaje-java-white)
+![Etiqueta1](https://img.shields.io/badge/servidor-node-green)
+![Etiqueta1](https://img.shields.io/badge/servidor-springBoot-green)
+![Etiqueta1](https://img.shields.io/badge/apirest-postman-oranged)
+![Etiqueta1](https://img.shields.io/badge/databaseSQL-mysql-purple)
+![Etiqueta1](https://img.shields.io/badge/databaseNoSQL-mongo-green)
+![Etiqueta1](https://img.shields.io/badge/databaseNoSQL-mongo-green)
 
 ### Conéctate conmigo 🌐
 
