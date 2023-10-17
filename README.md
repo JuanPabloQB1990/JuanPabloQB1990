@@ -29,9 +29,9 @@
 
 ### Conéctate conmigo 🌐
 
-📧 Correo Electrónico: [juanpabloqb1990@email.com](mailto:juanpabloqb1990@@email.com)  .
-🌐 Sitio Web: [juanpabloqbdeveloper.netlify.app](https://juanpabloqbdeveloper.netlify.app/)  .
-📷 Instagram: [@JuanpabloQB](https://www.instagram.com/juan_04041990/?hl=es-la)  .
+📧 Correo Electrónico: [juanpabloqb1990@email.com](mailto:juanpabloqb1990@@email.com) 
+🌐 Sitio Web: [juanpabloqbdeveloper.netlify.app](https://juanpabloqbdeveloper.netlify.app/)
+📷 Instagram: [@JuanpabloQB](https://www.instagram.com/juan_04041990/?hl=es-la)
 👔 LinkedIn: [JuanPabloQB](https://www.linkedin.com/in/juanpabloqb/)  .
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloQB1990&show_icons=true&theme=radical)
