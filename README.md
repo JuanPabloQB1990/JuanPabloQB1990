@@ -9,36 +9,13 @@
 
 ### Herramientas en las que me destaco
 
-![Etiqueta1](https://img.shields.io/badge/Css-valor1-blue)
-![Etiqueta1](https://img.shields.io/badge/JavaScript-valor1-yellow)
-![Etiqueta1](https://img.shields.io/badge/React-valor1-black)
-![Etiqueta1](https://img.shields.io/badge/etiqueta1-valor1-blue)
+![Etiqueta1](https://img.shields.io/badge/frontend-Html-red)
+![Etiqueta1](https://img.shields.io/badge/estilos-Css-blue)
+![Etiqueta1](https://img.shields.io/badge/lenguaje-JavaScript-yellow)
+![Etiqueta1](https://img.shields.io/badge/framework-React-black)
+![Etiqueta1](https://img.shields.io/badge/nube-Git-GitHub-blue)
 
-<h3>Frontend:</h3>
-  <ul>
-    <li>![Etiqueta1](https://img.shields.io/badge/Html-valor1-red)</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>React</li>
-    <li>Git - GitHub</li>
-  </ul>
-  
-  <h3>BackEnd:</h3>
-  <ul>
-    <li>Node</li>
-    <li>REST API - Postman</li>
-    <li>MySql</li>
-    <li>Base de datos (SQL, NoSQL)</li>
-    <li>Java</li>
-    <li>PHP</li>
-  </ul>
-  <h3>Actualmente aprendiendo...</h3>
-  <ul>
-    <li>Spring - Spring-boot</li>
-    <li>Stream api</li>
-    <li>Swagger</li>
-    <li>GRAPHQL</li>
-  </ul>
+
 
 [### Conéctate conmigo 🌐]
 
