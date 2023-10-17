@@ -13,7 +13,7 @@
 ![Etiqueta1](https://img.shields.io/badge/estilos-Css-blue)
 ![Etiqueta1](https://img.shields.io/badge/lenguaje-JavaScript-yellow)
 ![Etiqueta1](https://img.shields.io/badge/framework-React-black)
-![Etiqueta1](https://img.shields.io/badge/nube-Git-GitHub-blue)
+![Etiqueta1](https://img.shields.io/badge/Git-GitHub-blue)
 
 
 
