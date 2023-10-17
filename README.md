@@ -1,7 +1,13 @@
 <div id:"header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
   <h1 align="center">Hola, soy desarrollador Junior FullStack</h1>
-  <h3 align="center">Un apasionado desarrollador Web, vivo en Medellín - Colombia, me gusta estudiar y aprender cosas nuevas       cada dia, y crecer profesionalmente, y en este perfil podras ver algunos de mis mejores proyectos de manera personal.
+  <h3 align="center">👨‍💻 Desarrollador Full Stack certificado en el arte oscuro del backend gracias al mágico Bootcamp de Makaia 🧙‍♂️. También poseo certificados frontend 💅 de varias plataformas, porque, ¿por qué no ser un maestro en todos los elementos del diseño web?
+
+🧠 En constante modo "Aprendizaje" activado, siempre en búsqueda de nuevos desafíos y soluciones. Si tienes un problema, ¡estoy aquí para resolverlo como un superhéroe de la codificación! 💪
+
+💡 ¡Únete a mi viaje tecnológico y descubre proyectos increíbles! 🚀 La diversión y el aprendizaje constante son los ingredientes secretos de mi código mágico. 👨‍💻✨
+
+¡Bienvenido a mi mundo de bits y bytes! 🌍💾
   </h3>
   
 </div>
