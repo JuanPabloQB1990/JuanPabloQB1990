@@ -22,7 +22,7 @@
 ![Etiqueta1](https://img.shields.io/badge/lenguaje-java-white)
 ![Etiqueta1](https://img.shields.io/badge/servidor-node-green)
 ![Etiqueta1](https://img.shields.io/badge/servidor-springBoot-green)
-![Etiqueta1](https://img.shields.io/badge/apirest-postman-oranged)
+![Etiqueta1](https://img.shields.io/badge/apirest-postman-orange)
 ![Etiqueta1](https://img.shields.io/badge/databaseSQL-mysql-purple)
 ![Etiqueta1](https://img.shields.io/badge/databaseNoSQL-mongo-green)
 
